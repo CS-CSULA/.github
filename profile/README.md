@@ -3,4 +3,4 @@
 ## CS5660
 
 - [Assignments](https://github.com/CS-CSULA/CS5660_Assignments)
-- [Classroom]()
+- [Classroom](https://github.com/orgs/stephengineer-CS5660-classroom/repositories)
