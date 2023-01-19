@@ -2,5 +2,5 @@
 
 ## CS5660
 
-- [Assignments]()
+- [Assignments](https://github.com/CS-CSULA/CS5660_Assignments)
 - [Classroom]()
